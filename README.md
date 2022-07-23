@@ -1,4 +1,4 @@
-### Opa DG é o trem 
+### Opa é DG
 
 <div align="center">
   <a href="https://github.com/douglasmaffra">
